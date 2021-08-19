@@ -1,0 +1,12 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.py
+src/.DS_Store
+src/parseIdCard/__init__.py
+src/parseIdCard/area
+src/parseIdCard/parseIdCard.py
+src/parseIdCard.egg-info/PKG-INFO
+src/parseIdCard.egg-info/SOURCES.txt
+src/parseIdCard.egg-info/dependency_links.txt
+src/parseIdCard.egg-info/top_level.txt
